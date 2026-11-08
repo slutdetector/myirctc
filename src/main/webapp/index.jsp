@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h2>Registration Form</h2>
+<h2>Please Fill Registration Form</h2>
 
 <form action="/submit" method="post">
   <label for="fname">First Name:</label><br>
