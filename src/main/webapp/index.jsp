@@ -16,7 +16,7 @@
   <label for="lname">Last Name:</label><br>
   <input type="text" id="lname" name="lname" required><br><br>
 
-  <label for="email">Email:</label><br>
+  <label for="email">Email_ID:</label><br>
   <input type="email" id="email" name="email" required><br><br>
 
   <label for="password">Password:</label><br>
